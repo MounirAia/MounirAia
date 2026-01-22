@@ -7,7 +7,7 @@
 ## 💻 Skills
 
 **Web & Mobile Development:**  
-React, React Native, TypeScript, Supabase, PostgreSQL, TanStack Start, SQL
+React, React Native, Expo, TypeScript, Supabase, PostgreSQL, TanStack Start, SQL
 
 ---
 
