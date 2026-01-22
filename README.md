@@ -1,6 +1,6 @@
 ## 💰 Projects That Make Money
 
-- [https://apify.com/cheap_scraper](https://apify.com/cheap_scraper) 300$/m
+[https://apify.com/cheap_scraper](https://apify.com/cheap_scraper) 300$/m
 
 ---
 
